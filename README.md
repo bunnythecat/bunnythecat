@@ -4,7 +4,7 @@
 - 🌱 I'm currently a graduate student at the Graduate School of Arts and Sciences, University of Tokyo. I have a Master's Degree in the field of Multidisciplinary Sciences and a Bachelor's Degree in Chemistry, and I would like to apply my skills to solve both life science-related and real-world problems.
 - Statistical methods such as machine learning and neural networks have shown great potential in many chemical and biological applications such as virtual screening and molecular property prediction, and I would like to explore the potential of the latest models and technologies in applications such as 
 Molecular Property Prediction and Automated Molecule Generation.
-- Furthermore, I would like to learn more about MLOps for continuous delivery and automation pipelines in solving real-world problems in data-driving approaches!
+- Furthermore, I would like to learn more about MLOps for continuous delivery and automation pipelines in solving real-world problems in data-driven approaches!
 
 ##### 🔭 My Recent Projects
 
