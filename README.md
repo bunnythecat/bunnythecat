@@ -6,6 +6,7 @@ Statistical methods such as machine learning and neural networks have shown grea
 Molecular Property Prediction and Automated Molecule Generation. Furthermore, I would like to learn more about MLOps for continuous delivery and automation pipelines in solving real-world problems in data-driving approaches!
 
 - 🔭 My Recent Projects
+
 | Project                                                                                  | Description                                                                                                                                                    |
 |------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Language Model Based Music Recommendation System - SonglistML                            | ![Spotify Millions Playlist \| AI crowd challenge](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge)                              |
