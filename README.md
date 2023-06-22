@@ -28,7 +28,7 @@ Molecular Property Prediction and Automated Molecule Generation.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a huge coffee nerd ☕. My favorite band is Men I Trust 🎸!
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@b.wang1997/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@b.wang1997/0" alt="Recent Article 0"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@b.wang1997/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@b.wang1997/0" alt="Recent Article 0"> 
 
 ![catJAM](github.webp)
 <!--
