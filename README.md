@@ -1,5 +1,7 @@
 ## Hi there 👋 I am Ailin Wang!
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bunnythecat&label=Profile%20views&color=0e75b6&style=flat" alt="bunnythecat" /> </p>
+
 #### I am an enthusiast who loves to explore the latest models and technologies in the field of data science and deep learning. I have a huge interest in NLP and various forms of attention-based models (e.g., TransFormer, Auto-Regressive Models, FastFormer...).
 #### Exploratory Data Analysis | Predictive Analytics | MLOps | Attention-based Models
 - 🌱 I'm currently a graduate student at the Graduate School of Arts and Sciences, University of Tokyo. I have a Master's Degree in the field of Multidisciplinary Sciences and a Bachelor's Degree in Chemistry, and I would like to apply my skills to solve both life science related and real-world problems.
