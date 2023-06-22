@@ -13,7 +13,7 @@ Molecular Property Prediction and Automated Molecule Generation.
 | Language Model Based Music Recommendation System - SonglistML                            | Spotify Million Playlist Dataset Challenge (https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge)                                     |
 
 
-- 💬 Mandarine Chinese / English / Japanese
+- 💬 Mandarin Chinese / English / Japanese
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a huge coffee nerd. My favorite band is Men I Trust!
 
