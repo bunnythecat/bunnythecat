@@ -10,7 +10,8 @@ Molecular Property Prediction and Automated Molecule Generation.
 
 | Project                                                                                  | Description                                                                                                                                                    |
 |------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Language Model Based Music Recommendation System - SonglistML                            | Spotify Million Playlist Dataset Challenge (https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge)                                     |
+| Language Model Based Music Recommendation System - SonglistML                            | [Spotify Million Playlist Dataset Challenge](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge)                                    |
+| Sentiment Analysis with Emotes - EmoteML                                                 | Sentiment Analysis on speech-to-text data with Emotes using Attention-Based Neural Networks                                                                    |
 
 
 - 💬 Mandarin Chinese / English / Japanese
