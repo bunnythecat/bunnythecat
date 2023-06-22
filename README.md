@@ -18,7 +18,7 @@ Molecular Property Prediction and Automated Molecule Generation.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a huge coffee nerd ☕. My favorite band is Men I Trust 🎸!
 
-
+![catJAM](github.webp)
 <!--
 **bunnythecat/bunnythecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
