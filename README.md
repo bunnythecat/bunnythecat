@@ -11,12 +11,12 @@ Molecular Property Prediction and Automated Molecule Generation. Furthermore, I 
 |------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Language Model Based Music Recommendation System - SonglistML                            | ![Spotify Millions Playlist \| AI crowd challenge](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge)                              |
 
-- 🌱 I’m currently learning ...
-  
-<!--
-**bunnythecat/bunnythecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 💬 Mandarine Chinese / English / Japanese
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm huge coffee nerd. My favorite band is Men I Trust!
+- ⚡ Fun fact: I'm a huge coffee nerd. My favorite band is Men I Trust!
+
+
+<!--
+**bunnythecat/bunnythecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
