@@ -6,7 +6,7 @@
 Molecular Property Prediction and Automated Molecule Generation.
 - Furthermore, I would like to learn more about MLOps for continuous delivery and automation pipelines in solving real-world problems in data-driven approaches!
 
-##### 🔭 My Recent Projects
+## 🔭 My Recent Projects
 
 | Project                                                                                  | Description                                                                                                                                                    |
 |------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
