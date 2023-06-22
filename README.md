@@ -9,7 +9,7 @@ Molecular Property Prediction and Automated Molecule Generation. Furthermore, I 
 
 | Project                                                                                  | Description                                                                                                                                                    |
 |------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Language Model Based Music Recommendation System - SonglistML                            | ![Spotify Millions Playlist \| AI crowd challenge](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge)                              |
+| Language Model Based Music Recommendation System - SonglistML                            | Spotify Million Playlist Dataset Challenge (https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge)                                     |
 
 
 - 💬 Mandarine Chinese / English / Japanese
