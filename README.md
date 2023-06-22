@@ -15,7 +15,7 @@ Molecular Property Prediction and Automated Molecule Generation.
 
 - 💬 Mandarin Chinese / English / Japanese
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm a huge coffee nerd. My favorite band is Men I Trust!
+- ⚡ Fun fact: I'm a huge coffee nerd ☕. My favorite band is Men I Trust 🎸!
 
 
 <!--
