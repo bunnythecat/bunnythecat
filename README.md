@@ -4,10 +4,15 @@
 
 #### I am an enthusiast who loves to explore the latest models and technologies in the field of data science and deep learning. I have a huge interest in NLP and various forms of attention-based models (e.g., TransFormer, Auto-Regressive Models, FastFormer...).
 #### Exploratory Data Analysis | Predictive Analytics | MLOps | Attention-based Models
-- 🌱 I'm currently a graduate student at the Graduate School of Arts and Sciences, University of Tokyo. I have a Master's Degree in the field of Multidisciplinary Sciences and a Bachelor's Degree in Chemistry, and I would like to apply my skills to solve both life science related and real-world problems.
+- 🌱 I'm currently a graduate student at the Graduate School of Arts and Sciences, University of Tokyo. I have a Master's Degree in the field of Multidisciplinary Sciences and a Bachelor's Degree in Chemistry, and I would like to apply my skills to solve both Life Science related and Real-World problems.
 - Statistical methods such as machine learning and neural networks have shown great potential in many chemical and biological applications such as virtual screening and molecular property prediction, and I would like to explore the potential of the latest models and technologies in applications such as 
 Molecular Property Prediction and Automated Molecule Generation.
 - Furthermore, I would like to learn more about MLOps for continuous delivery and automation pipelines in solving real-world problems in data-driven approaches!
+
+#### I am interested in a variety of topics ranging from Fintech, Defi to Philosophy, Philosophy of Technology, and I am always passionate about building a wide range of knowledge bases and using that to help humanity towards Prosperity, Sustainability, Diversity, and Inclusion.
+- I have experimented with DQN on Bitcoin price for its ability on time series prediction and I would like to learn more about Reinforcement learning.
+- My recent reading list includes _What Begins After the End of the Enlightenment?_ by Yuk Hui, _Correspondences_ by Tim Ingold , _Can the Monster Speak?_ by Paul Preciado
+
 
 ### 🔭 My Recent Projects
 
