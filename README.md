@@ -10,6 +10,8 @@ Molecular Property Prediction and Automated Molecule Generation.
 - 🤓 Furthermore, I would like to learn more about MLOps for continuous delivery and automation pipelines in solving real-world problems in data-driven approaches!
 
 #### I am also interested in a variety of topics ranging from Fintech, Defi to Philosophy, Philosophy of Technology, and I am always passionate about building a wide range of knowledge bases and using that to help humanity towards Prosperity, Sustainability, Diversity, and Inclusion.
+- 🌱 My first project started when I was in my last year at university doing research about Intermolecular Potential Energy. There I was able to use a variety of Python packages to crawl Z-matrix (coordinate representation of atoms) into an SQL database.
+Then I was also fascinated by the potential of data visualization and it helped propel my research.
 - 🚀 I have experimented with DQN on Bitcoin price for its ability on time series prediction and I would like to learn more about Reinforcement learning.
 - 📚 My recent reading list includes _What Begins After the End of the Enlightenment?_ by Yuk Hui, _Correspondences_ by Tim Ingold , _Can the Monster Speak?_ by Paul Preciado
 - 🖼️ I'm currently experimenting with Stable Fiffusion and ControlNet for AI-assisted Art
