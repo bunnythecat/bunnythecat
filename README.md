@@ -13,7 +13,6 @@ Molecular Property Prediction and Automated Molecule Generation.
 - 🌱 My first project started when I was in my final year of bachelor's studies doing research about Intermolecular Potential Energy. There I was able to use a variety of Python packages to crawl Z-matrix (coordinate representation of atoms) into an SQL database.
 Then I was also fascinated by the potential of data visualization and it helped propel my research.
 - 🚀 I have experimented with DQN on Bitcoin price for its ability on time series prediction and I would like to learn more about Reinforcement learning.
-- 📚 My recent reading list includes _What Begins After the End of the Enlightenment?_ by Yuk Hui, _Correspondences_ by Tim Ingold , _Can the Monster Speak?_ by Paul Preciado
 - 🖼️ I'm currently experimenting with Stable Fiffusion and ControlNet for AI-assisted Art
 
 
