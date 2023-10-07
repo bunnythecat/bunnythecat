@@ -4,7 +4,7 @@
 
 #### I am an enthusiast who loves to explore the latest models and technologies in the field of data science and deep learning. I have a huge interest in NLP and various forms of attention-based models (e.g., TransFormer, Auto-Regressive Models, FastFormer...).
 #### Exploratory Data Analysis | Predictive Analytics | MLOps | Attention-based Models
-- 🌱 I'm currently a graduate student at the Graduate School of Arts and Sciences, University of Tokyo. I have a Master's Degree in the field of Multidisciplinary Sciences and a Bachelor's Degree in Chemistry, and I would like to apply my skills to solve both Life Science related and Real-World problems.
+- 🌱 I have a Master's Degree from the Graduate School of Arts and Sciences, University of Tokyo, and a Bachelor's Degree in Chemistry, and I would like to apply my skills to solve both Life Science related and Real-World problems.
 - 🔬 Statistical methods such as machine learning and neural networks have shown great potential in many chemical and biological applications such as virtual screening and molecular property prediction, and I would like to explore the potential of the latest models and technologies in applications such as 
 Molecular Property Prediction and Automated Molecule Generation.
 - 🤓 Furthermore, I would like to learn more about MLOps for continuous delivery and automation pipelines in solving real-world problems in data-driven approaches!
@@ -36,7 +36,6 @@ Then I was also fascinated by the potential of data visualization and it helped 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@b.wang1997/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@b.wang1997/0" alt="Recent Article 0"> 
 
-![catJAM](github.webp)
 <!--
 **bunnythecat/bunnythecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
